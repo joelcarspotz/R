@@ -16,6 +16,7 @@ import re
 import webbrowser
 import random
 import string
+import nmap
 
 
 init(autoreset=True) 
